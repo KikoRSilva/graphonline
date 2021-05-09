@@ -140,13 +140,13 @@
     $g_lang["graph_is_multi_message"] = "Multigrafo não suporta todos os algoritmos";
     $g_lang["graph_is_general_message"] = "";
 
-    $g_lang["text_above_edge"] = "Text above edge";
+    $g_lang["text_above_edge"] = "Texto acima da aresta";
 
-    $g_lang["select_groupe_mac"] = "Use Cmd⌘ to select several objects.";
-    $g_lang["select_groupe_win"] = "Use Ctrl to select several objects.";
-    $g_lang["drag_select_group"] = "Drag group.";
-    $g_lang["copy_select_group"] = "Copy group";
-    $g_lang["remove_select_group"] = "Delete group";
+    $g_lang["select_groupe_mac"] = "Use Cmd⌘ para selecionar vários objetos.";
+    $g_lang["select_groupe_win"] = "Use Ctrl para selecionar vários objetos.";
+    $g_lang["drag_select_group"] = "Arrastar grupo.";
+    $g_lang["copy_select_group"] = "Copiar grupo";
+    $g_lang["remove_select_group"] = "Remover grupo";
 
     $g_lang["replace_edge"] = "Substituir atual";
     $g_lang["add_edge"] = "Adicionar (multigrafo)";
@@ -170,41 +170,41 @@
     $g_lang["min_spanning_tree_ignore_direction"] = "Durante os cálculos ignoramos as direções dos vértices.";
     $g_lang["min_spanning_tree_graph_not_connected"] = "Grafo desconectado";
 
-    $g_lang['select_first_graph_isomorphism_check'] = "Select first graph for isomorphic check. Click to any node of graph";
-    $g_lang['select_second_graph_isomorphism_check'] = "Select second graph for isomorphic check. Click to any node of graph";
-    $g_lang['select_first_graph_pattern_check'] = "Select a template graph by clicking to any node of graph";
-    $g_lang['select_second_graph_for_search_subgraph'] = "Choose a graph in which we will look for isomorphic subgraphs. Click to any node of this graph";
-    $g_lang['graphs_isomorph'] = "Graphs are isomorphic";
-    $g_lang['graphs_not_isomorph'] = "Graphs are not isomorphic";
-    $g_lang['number_of_isomorph_subgraph_is'] = "Number of isomorphic subgraphs are ";
-    $g_lang['graph_has_no_isomorph_subgraph'] = "Graph doesn't contain isomorphic subgraphs";
-    $g_lang['search_isomorph_subgraph'] = "Search isomorphic subgraphs";
-    $g_lang['subgraph_no'] = "Isomorphic subgraph # ";
-    $g_lang['graph_has_no_atleast_2_graphs'] = "To use the algorithm, you need to create 2 separate graphs";
-    $g_lang['isomorphism_check'] = "Check Graphs Isomorphism";
+    $g_lang['select_first_graph_isomorphism_check'] = "Selecione o primeiro grafo para verificar o isomorfismo. Clica em qualquer nó deste grafo";
+    $g_lang['select_second_graph_isomorphism_check'] = "Selecione o segundo grafo para verificar o isomorfismo. Clica em qualquer nó deste grafo";
+    $g_lang['select_first_graph_pattern_check'] = "Selecione um modelo de grafo clicando em qualquer nó do grafo";
+    $g_lang['select_second_graph_for_search_subgraph'] = "Escolhe o grafo para procurar por subgrafos isomorfos. Clica em qualquer nó deste grafo";
+    $g_lang['graphs_isomorph'] = "Grafos são isomorfos";
+    $g_lang['graphs_not_isomorph'] = "Grafos não são isomorfos";
+    $g_lang['number_of_isomorph_subgraph_is'] = "Número de subgrafos isomórfos é";
+    $g_lang['graph_has_no_isomorph_subgraph'] = "O grafo não contém subgrafos isomorfos";
+    $g_lang['search_isomorph_subgraph'] = "Procurar subgrafos isomorfos";
+    $g_lang['subgraph_no'] = "Subgrafo isomorfo # ";
+    $g_lang['graph_has_no_atleast_2_graphs'] = "Para usar o algoritmo, tens de criar 2 grafos separados";
+    $g_lang['isomorphism_check'] = "Verificar Isomorfismo dos Grafos";
 
-    $g_lang['action'] = "Actions";
-    $g_lang['common_edge_style'] = "Common edge style";
-    $g_lang['selected_edge_style'] = "Selected edge style";
-    $g_lang['common_vertex_style'] = "Common vertex style";
-    $g_lang['selected_vertex_style'] = "Selected vertex style";
+    $g_lang['action'] = "Ações";
+    $g_lang['common_edge_style'] = "Estilo da aresta em comum";
+    $g_lang['selected_edge_style'] = "Estilo da aresta selecionado";
+    $g_lang['common_vertex_style'] = "Estilo do vértice em comum";
+    $g_lang['selected_vertex_style'] = "Estilo do vértice selecionado";
 
-    $g_lang['shape'] = "Shape";
-    $g_lang['circle'] = "Circle";
-    $g_lang['squere'] = "Square";
-    $g_lang['triangle'] = "Triangle";
-    $g_lang['pentagon'] = "Pentagon";
-    $g_lang['vertex_diameter'] = "Vertex size";
+    $g_lang['shape'] = "Forma";
+    $g_lang['circle'] = "Círculo";
+    $g_lang['squere'] = "Quadrado";
+    $g_lang['triangle'] = "Triângulo";
+    $g_lang['pentagon'] = "Pentágono";
+    $g_lang['vertex_diameter'] = "Tamanho do vértice";
 
     $g_lang['additional_text_color'] = "Another text color"; 
     $g_lang['center'] = "Center";
     $g_lang['on_up'] = "Above";    
 
-    $g_lang['weight_position'] = "Weight position";    
-    $g_lang['text_position'] = "Text position";
-    $g_lang['line_style']    = "Edge style";
-    $g_lang['edge_width']    = "Edge width";
-    $g_lang['selected_index'] = "Selection group";      
+    $g_lang['weight_position'] = "Posição do peso";    
+    $g_lang['text_position'] = "Posição do texto";
+    $g_lang['line_style']    = "Estilo da aresta";
+    $g_lang['edge_width']    = "Largura da aresta";
+    $g_lang['selected_index'] = "Seleção de grupo";      
 
-    $g_lang['all'] = "All";    
+    $g_lang['all'] = "Todos";    
 ?>
